@@ -1,19 +1,19 @@
  .pregunta1{
-    background-color: blueviolet;
+    background-color: rgb(208, 226, 43);
 }
 .content-div{
-    border: 1px solid aqua;
+    border: 1px solid rgb(30, 255, 0);
 }
 .pregunta2 {
-    background-color: pink; 
+    background-color: rgb(216, 4, 39); 
 }
 .pregunta3
 {
-    background-color: red;
+    background-color: rgb(0, 238, 255);
 }
 .pregunta4
 {
-    color: green;
+    color: rgb(128, 0, 85);
 }
 .pregunta5
 {
